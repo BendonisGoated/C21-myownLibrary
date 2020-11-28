@@ -1,2 +1,2 @@
-# C21-myownLibrary
-library for bounceOff and collision
+# p5.play-boilerplate
+Boiler plate for p5.play
